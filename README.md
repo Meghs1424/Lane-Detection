@@ -23,3 +23,13 @@ A Canny edge detector is a multi-step algorithm to detect the edges for any inpu
 ### Clustering
 
 Clustering is a method of unsupervised learning and is a common technique for statistical data analysis used in many fields. We can use clustering analysis to gain some valuable insights from our data by seeing what groups the data points fall into when we apply a clustering algorithm.
+
+## Methodology
+
+- Apply gamma correction to deal  with night  or very less brightness in the image.
+- Define our region of interest.
+- Reduce the noise and make data smoother.
+- Apply Color thresholding to identify road lanes clearly.
+- Apply Canny Edge Detection algorithm for finding edges.
+- Apply Hough transform to make lines on our data.
+- Apply Clustering algorithm to draw clear line.
