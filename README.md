@@ -33,3 +33,8 @@ Clustering is a method of unsupervised learning and is a common technique for st
 - Apply Canny Edge Detection algorithm for finding edges.
 - Apply Hough transform to make lines on our data.
 - Apply Clustering algorithm to draw clear line.
+
+## How to Run
+
+- Change the source data file name.
+- Run each code block in the code.py file one after another.
